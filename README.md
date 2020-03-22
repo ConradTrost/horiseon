@@ -4,5 +4,5 @@ https://retro1967.github.io/horiseon/
 
 Horiseon SEO challenge activity. Challenge was to refract the code to improve the accessibility standards and readability of the code. 
 
-![Image description](https://courses.bootcampspot.com/courses/149/files/50870/download)
+![Image description](./assets/images/01-html-css-git-homework-demo.png)
 
